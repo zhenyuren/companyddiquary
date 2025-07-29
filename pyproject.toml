@@ -1,7 +1,10 @@
 [build-system]
-requires = ["setuptools>=80.0.0", "wheel>=0.40.0"]
+requires = ["setuptools>=80.0.0", "wheel>=0.40.0", "setuptools-scm>=7.0.0"]
 build-backend = "setuptools.build_meta"
 
+[project]
+name = "companyddiquary"
+version = "0.1.0"
 [tool.setuptools_scm]
 write_to = "_version.py"
 version_scheme = "no-guess-dev"
