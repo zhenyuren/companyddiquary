@@ -1,5 +1,5 @@
 pandas==2.3.0
 streamlit==1.45.1
 qrcode==7.4.2
-pillow==9.5.0  # Downgrade to more stable version for Streamlit Cloud
-pip>=25.1.1     # Add pip upgrade requirement
+pillow==9.5.0  # Stable version compatible with Streamlit Cloud
+pip>=25.1.1
