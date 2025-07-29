@@ -1,5 +1,9 @@
 pandas==2.3.0
 streamlit==1.45.1
 qrcode==7.4.2
-pillow==9.5.0  # Stable version compatible with Streamlit Cloud
+setuptools>=65.0.0
+wheel>=0.40.0
+streamlit==1.35.0
+pandas==2.2.2
+pillow==9.5.0
 pip>=25.1.1
