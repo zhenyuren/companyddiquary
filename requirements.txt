@@ -3,6 +3,5 @@ streamlit==1.45.1
 qrcode==7.4.2
 setuptools>=80.0.0
 wheel>=0.40.0
-// ... existing code ...
-https://files.pythonhosted.org/packages/32/42/0e5970d12c91046f9644e17157a7b8177b40973e951c4171262f990a782a/Pillow-9.0.0-cp312-cp312-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+pillow==10.3.0
 pip>=25.1.1
